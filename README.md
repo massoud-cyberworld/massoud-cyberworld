@@ -18,7 +18,7 @@ I spent most of teenager years playing with computers along with my dad, who was
 | Firewalls types, topology, TCP/IP protocol, web server, HTTP relation to Web security                                     | NOVA Community College</a>|
 | Project Managment (IT343) strategies, planning, organizing,and system monitoring of IT related projects                   | Geroge Mason University</a>|
 | AWS Cloud Servie Managment (IT 451), cloud design, optimization, services, with hands on labs                             | Geroge Mason University</a>|
-| Certification and Accreditation of Federal IT system (IT429) uing Risk Managment Framework (RMF) ,hands on digital simulations, deep reseeach of cybersecurity incidents                                                                                                                                                                        | Geroge Mason University</a>|
+| Certification and Accreditation of Federal IT system (IT429) using Risk Managment Framework (RMF) ,hands on digital simulations, deep reseeach of cybersecurity incidents                                                                                                                                                                        | Geroge Mason University</a>|
 
 ## Tools
 ### Network
