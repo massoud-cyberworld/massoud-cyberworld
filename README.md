@@ -7,6 +7,12 @@ I am a senior cybersecurity student at Geroge Mason University with profound int
 
 ## Objective
 I spent most of teenager years playing with computers along with my dad, who was a software engineer for many years, and my inpiration to persue a degree in cybersecurity. My cybersecurity journey started after the company my dad was working, had data breach and some of their employees' Personal Identifiable Information (PII) was compromised including my dad's, and that is the time when I promised with myself to persue cybersecurity field and wanted to really understand why cybercriminals going after everyone's data. Since than I never has reached a point to feel regretted or stop learning. Now here I am, eager to start my career, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and from there climb up to more roles and challenges. 
+## Why the World Needs Cybersecurity and What is the Impact on us
+With the increasing reliance of digital data, storage and transmission, protecting sensitive information such as personal identifiable information (PII), financial records, and intellectual property is paramount
+A single cyber attack including malware, phishing, and ransomware, can disrupt operations, steal data, and cause significant financial losses. 
+In an interconnected world, trust is vital for business transactions, online interactions, and communication. Cybersecurity is the art of safeguarding these assets as whole in the digital age
+![image](https://github.com/massoud-cyberworld/massoud-cyberworld/assets/168353668/9a847fab-3262-4d8b-a860-d422d19777d4)
+
 
 ## Skills
 
