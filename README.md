@@ -6,7 +6,7 @@
 I am a senior cybersecurity student at Geroge Mason University with profound interest in technology and a strong dedication to solving complex problem in cybersecurity.My root interst with technology goes back to my family, particualry my dad, who was a software engineer, and my insptration to persue a degree in cybersecurity after high school.
 
 ## Objective
-I spent most of teenager years playing with computers along with my dad, who was a sotware engineer for many years, and my inpiration to persue a degree in cybersecurity. My cybersecurity journey started after th company my dad was working, had data breach and some of their employees Personal Identifiable Information (PII) was compromised including my dad's, and that is the time when I promised with myself to persue cybersecurity field and wanted to really understand why cybercriminals going after everyone's data. Since than I never has reached a point to feel regretted or stop learning. Now here I am, eager to start my career, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and from there climb up to more roles and challenges. 
+I spent most of teenager years playing with computers along with my dad, who was a sotware engineer for many years, and my inpiration to persue a degree in cybersecurity. My cybersecurity journey started after the company my dad was working, had data breach and some of their employees Personal Identifiable Information (PII) was compromised including my dad's, and that is the time when I promised with myself to persue cybersecurity field and wanted to really understand why cybercriminals going after everyone's data. Since than I never has reached a point to feel regretted or stop learning. Now here I am, eager to start my career, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, and from there climb up to more roles and challenges. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -42,6 +42,6 @@ I spent most of teenager years playing with computers along with my dad, who was
 - 🔭 I’m currently working on Security+, Network+, and AWS Cloud Practitioner
 
 ### Projects
-- Digital Simulation of a cyber attack
+- Digital Simulation of a cyber attack https://github.com/massoud-cyberworld/Digital-Simulation-of-a-cyber-attack/edit/main/README.md
 - Deep analaysis of Cyberseucrity incidents 
 
