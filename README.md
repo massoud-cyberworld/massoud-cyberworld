@@ -37,9 +37,11 @@ I spent most of teenager years playing with computers along with my dad, who was
 
 ### Certificatons
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-### Projects
  
 ### Upcoming Certifcations
 - 🔭 I’m currently working on Security+, Network+, and AWS Cloud Practitioner
+
+### Projects
+- Digital Simulation of a cyber attack
+- Deep analaysis of Cyberseucrity incidents 
 
